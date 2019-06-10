@@ -32,7 +32,7 @@
 @@||contentlockingnetworks.com/gLoader.php?GID=$script,third-party
 @@||contentlockingnetworks.com/gTemplate.php?GID=$subdocument,third-party
 ! AdScendMedia
-! if (gwloaded==false){window.location = "http://adscendmedia.com/gateway_adblock.php?p=4316";}
+! if (gwloabded==false){window.location = "http://adscendmedia.com/gateway_adblock.php?p=4316";}
 ! https://adscendmedia.com/widget_adblock.php?p=12377 --> redirect
 ! http://adscendmedia.com/gwjs.php?aff=4316&prf=18180&sid=
 @@||adscendmedia.com/gwjs.php?aff=$script,third-party
